@@ -1,4 +1,4 @@
 # NLW HEAT
 
 - Aula 1 - Node
-- 38:00
+- 01:31:00
